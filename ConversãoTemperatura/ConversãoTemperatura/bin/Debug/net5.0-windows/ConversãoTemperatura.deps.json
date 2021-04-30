@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConversãoTemperatura/1.0.0": {
+        "runtime": {
+          "ConversãoTemperatura.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConversãoTemperatura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
