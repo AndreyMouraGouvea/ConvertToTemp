@@ -56,6 +56,7 @@ namespace ConversãoTemperatura
         {
             double ke = Convert.ToDouble(textBox3.Text);
             textBox4.Text = Convert.ToString(((ke - 32) * 5/9 + 273.15));
+            //variavel.ToString("0.00")
         }
     }
 }
